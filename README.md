@@ -1,4 +1,4 @@
-# 🏥 Abstergo Cloud Commerce – Arquitetura AWS para E-commerce Farmacêutico
+# 🏥 Abstergo: Arquitetura de Serviços AWS
 
 > Projeto desenvolvido como parte do desafio do bootcamp  
 > **Santander 2025 – Ciência de Dados com Python**, promovido pela **DIO em parceria com o Banco Santander**.
